@@ -17,6 +17,7 @@ def inputNumber(message):
             break
 
 
+# This line is for testing the game, it can be removed once it is presented to users.
 print(random_num)
 print("Welcome to the guessing game, you will have 5 guesses to guess a number.")
 guess = inputNumber("Please enter a number from 0 and 10: ")
